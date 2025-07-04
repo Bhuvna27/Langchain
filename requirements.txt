@@ -2,5 +2,11 @@ langchain
 python-dotenv
 langchain_community
 pypdf
+bs4
+arxiv
+pymupdf
+langchain_text_splitters
+langchain-openai
+
 
 
